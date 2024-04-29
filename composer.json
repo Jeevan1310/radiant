@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "jeevan/radiant",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "jeevan\\radiant\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "radiant"
         }
     ],
     "require": {
